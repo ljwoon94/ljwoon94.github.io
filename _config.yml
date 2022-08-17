@@ -23,7 +23,7 @@ timezone: Asia/Seoul
 
 title: JeongWoon                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: JeongWoon의 개발 일기   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
